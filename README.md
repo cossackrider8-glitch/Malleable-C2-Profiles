@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="kamui-banner.webp" alt="KAMUI C2 Profile Banner" width="800"/>
+  <img src="kamui-banner.webp.webp" alt="KAMUI C2 Profile Banner" width="800"/>
 </p>
 
 # 🟣 Malleable-C2-Profiles
